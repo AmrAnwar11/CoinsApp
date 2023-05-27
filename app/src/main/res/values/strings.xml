@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoinsApp</string>
+    <string name="error_connection">Error connection</string>
+    <string name="error_not_found">Error not found</string>
+    <string name="error_server">Server error</string>
+    <string name="error_timeout">Error timeout</string>
+    <string name="error_unknown">Error unknown</string>
+</resources>

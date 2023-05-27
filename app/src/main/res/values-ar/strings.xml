@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoinsApp</string>
+    <string name="error_connection"> خطأ في الاتصال </string>
+    <string name="error_not_found"> لم يتم العثور على الخطأ </string>
+    <string name="error_server"> خطأ في الخادم </string>
+    <string name="error_timeout"> انتهاء مهلة الخطأ </string>
+    <string name="error_unknown"> خطأ غير معروف </string>
+</resources>
