@@ -23,7 +23,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.google.accompanist.flowlayout.FlowRow
-import com.plcoding.weatherapp.baseui.BaseError
+import com.plcoding.weatherapp.baseui.ApplyCommonError
 import com.plcoding.weatherapp.baseui.BaseProgress
 import com.plcoding.weatherapp.presentation.coin_details.components.CoinTag
 import com.plcoding.weatherapp.presentation.coin_details.components.TeamItem
@@ -99,9 +99,8 @@ fun CoinDetailsScreen(
                 }
             }
         }
+        detailsState.error?.ApplyCommonError(boxScope = this)
     }
-
-    BaseError(error = detailsState.error)
 
     BaseProgress(isLoading = detailsState.isLoading)
 }

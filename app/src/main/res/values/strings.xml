@@ -5,4 +5,12 @@
     <string name="error_server">Server error</string>
     <string name="error_timeout">Error timeout</string>
     <string name="error_unknown">Error unknown</string>
+    <string name="retry">retry</string>
+    <string name="invalid_name">invalid Name</string>
+    <string name="invalid_email">invalid Email</string>
+
+    <string name="ok">ok</string>
+    <string name="text_alert">Alert</string>
+    <string name="un_auth">Your account may have been logged out.</string>
+    <string name="block">Your account has been banned by the administration. In the event of an error, please contact the administration</string>
 </resources>

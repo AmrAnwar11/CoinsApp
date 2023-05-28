@@ -5,4 +5,12 @@
     <string name="error_server"> خطأ في الخادم </string>
     <string name="error_timeout"> انتهاء مهلة الخطأ </string>
     <string name="error_unknown"> خطأ غير معروف </string>
+    <string name="retry">حاول تاني</string>
+    <string name="invalid_name">خطأ ف الاسم</string>
+    <string name="invalid_email">خطأ ف البريد الالكتروني</string>
+
+    <string name="ok">حاضر</string>
+    <string name="text_alert">تنبيه</string>
+    <string name="un_auth">قد تم تسجيل الخروج من حسابك.</string>
+    <string name="block">لقد تم حظر حسابك من قبل الإدارة. في حالة وجود خطأ ما برجاء التواصل مع الإدارة.</string>
 </resources>
